@@ -1,0 +1,3 @@
+http://proxy1.com:8080
+http://proxy2.com:8080
+socks5://proxy3.com:1080
