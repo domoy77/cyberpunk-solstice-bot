@@ -768,7 +768,7 @@ function displaySplashScreen() {
   console.log(gradients.title(asciiArt));
   
   // Judul utama
-  console.log('\n' + gradients.title(centerText('▀▄▀▄▀▄ CYBERPUNK SOLSTICE BOT v2.0 ▄▀▄▀▄▀', width)));
+  console.log('\n' + gradients.title(centerText('▀▄▀▄▀▄ CYBERPUNK SOLFLARE KINGDOM BOT v2.0 ▄▀▄▀▄▀', width)));
 
   // Subtitle
   console.log(gradients.subtitle(centerText('⚡ Cyberpunk Edition ⚡', width)));
@@ -779,7 +779,7 @@ function displaySplashScreen() {
   // Informasi
 //console.log(gradients.title(centerText('CYBERPUNK SOLSTICE BOT v2.0', width)));
 //console.log(gradients.subtitle(centerText('⚡ Repository: github.com/domoy77/cyberpunk-solstice-bot', width)));
-  console.log(theme.primary(centerText('🎮 Auto Check-in & Play Bot for Solstice Kingdom', width)));
+  console.log(theme.primary(centerText('🎮 Auto Check-in & Play Bot for Solflare Kingdom', width)));
   console.log(theme.muted(centerText('Automate daily check-ins and game plays to maximize points', width)));
   console.log('\n');
   
