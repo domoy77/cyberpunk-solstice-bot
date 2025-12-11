@@ -1,14 +1,14 @@
 {
 "name": "cyberpunk-solstice-bot",
 "version": "2.0.0",
-"description": "Auto bot for Solstice Kingdom with cyberpunk theme",
+"description": "Auto bot for Solflare Kingdom with cyberpunk theme",
 "main": "index.js",
 "type": "module",
 "scripts": {
 "start": "node index.js",
 "dev": "node index.js"
 },
-"keywords": ["solstice", "bot", "cyberpunk", "automation"],
+"keywords": ["solflare", "bot", "cyberpunk", "automation"],
 "author": "CHE DOMOY",
 "license": "MIT",
 "repository": {
