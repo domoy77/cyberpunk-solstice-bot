@@ -4,6 +4,7 @@
 ![Cyberpunk Theme](https://img.shields.io/badge/Theme-Cyberpunk-00D4FF)
 ![Node.js](https://img.shields.io/badge/Node.js-16.x+-339933)
 ![Version](https://img.shields.io/badge/Version-2.0.0-cyan)
+[![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg)](https://buymeacoffee.com/domoy77)
 # cyberpunk-Solflare-bot
 Auto bot for Solstice Kingdom with cyberpunk theme - Check-in &amp; Play Automation
 # 🎮 Cyberpunk Solflare Bot v2.0 ⚡
